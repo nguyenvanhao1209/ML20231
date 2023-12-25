@@ -1,0 +1,5 @@
+env/
+.ipynb_checkpoints/
+app.py
+model.pkl
+vectorizer.pkl
